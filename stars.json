@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9019,
-    "open_issues_count": 35,
-    "forks_count": 790
+    "stargazers_count": 9031,
+    "open_issues_count": 36,
+    "forks_count": 792
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,12 +68,12 @@
   {
     "full_name": "terminusdb/terminusdb",
     "stargazers_count": 2135,
-    "open_issues_count": 152,
+    "open_issues_count": 156,
     "forks_count": 90
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 251,
+    "stargazers_count": 253,
     "open_issues_count": 27,
     "forks_count": 69
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 616,
+    "stargazers_count": 618,
     "open_issues_count": 19,
     "forks_count": 133
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 641,
-    "open_issues_count": 95,
+    "stargazers_count": 643,
+    "open_issues_count": 96,
     "forks_count": 73
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1700,
+    "stargazers_count": 1702,
     "open_issues_count": 54,
     "forks_count": 226
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "bastibl/gr-rds",
-    "stargazers_count": 195,
+    "stargazers_count": 196,
     "open_issues_count": 2,
     "forks_count": 68
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "argilo/gr-ham",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 2,
     "forks_count": 7
   }
