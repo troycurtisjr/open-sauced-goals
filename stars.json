@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9201,
+    "stargazers_count": 9217,
     "open_issues_count": 35,
-    "forks_count": 806
+    "forks_count": 808
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 76,
-    "open_issues_count": 64,
+    "stargazers_count": 75,
+    "open_issues_count": 65,
     "forks_count": 49
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 639,
+    "stargazers_count": 638,
     "open_issues_count": 18,
     "forks_count": 135
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 679,
+    "stargazers_count": 682,
     "open_issues_count": 98,
     "forks_count": 72
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1740,
+    "stargazers_count": 1747,
     "open_issues_count": 54,
     "forks_count": 228
   },
   {
     "full_name": "lutusp/PLSDR",
     "stargazers_count": 147,
-    "open_issues_count": 14,
-    "forks_count": 18
+    "open_issues_count": 13,
+    "forks_count": 19
   },
   {
     "full_name": "bastibl/gr-rds",
