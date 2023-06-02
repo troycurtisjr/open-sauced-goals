@@ -31,7 +31,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9448,
+    "stargazers_count": 9456,
     "open_issues_count": 37,
     "forks_count": 824
   },
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 79,
-    "open_issues_count": 63,
+    "open_issues_count": 65,
     "forks_count": 49
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2309,
-    "open_issues_count": 188,
-    "forks_count": 94
+    "stargazers_count": 2313,
+    "open_issues_count": 187,
+    "forks_count": 95
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 660,
+    "stargazers_count": 662,
     "open_issues_count": 17,
     "forks_count": 140
   },
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 731,
-    "open_issues_count": 40,
+    "stargazers_count": 732,
+    "open_issues_count": 39,
     "forks_count": 76
   },
   {
     "full_name": "madengr/ham2mon",
     "stargazers_count": 237,
     "open_issues_count": 9,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 241,
+    "stargazers_count": 242,
     "open_issues_count": 6,
     "forks_count": 85
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1802,
+    "stargazers_count": 1803,
     "open_issues_count": 55,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "lutusp/PLSDR",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 410,
+    "stargazers_count": 411,
     "open_issues_count": 15,
     "forks_count": 131
   },
