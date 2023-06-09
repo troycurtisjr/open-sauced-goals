@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9463,
-    "open_issues_count": 35,
-    "forks_count": 824
+    "stargazers_count": 9470,
+    "open_issues_count": 36,
+    "forks_count": 826
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "fedora-infra/aaa-tracker",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 80,
-    "open_issues_count": 65,
+    "open_issues_count": 59,
     "forks_count": 50
   },
   {
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "fedora-infra/fedmenu",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 6,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2314,
-    "open_issues_count": 187,
+    "stargazers_count": 2319,
+    "open_issues_count": 190,
     "forks_count": 95
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "open_issues_count": 27,
     "forks_count": 74
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 733,
-    "open_issues_count": 41,
+    "stargazers_count": 735,
+    "open_issues_count": 39,
     "forks_count": 77
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1806,
+    "stargazers_count": 1809,
     "open_issues_count": 55,
     "forks_count": 237
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 15,
     "forks_count": 131
   },
