@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9510,
+    "stargazers_count": 9524,
     "open_issues_count": 35,
-    "forks_count": 826
+    "forks_count": 825
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 82,
-    "open_issues_count": 59,
+    "open_issues_count": 60,
     "forks_count": 51
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2337,
-    "open_issues_count": 195,
+    "stargazers_count": 2344,
+    "open_issues_count": 194,
     "forks_count": 95
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 671,
+    "stargazers_count": 672,
     "open_issues_count": 16,
-    "forks_count": 141
+    "forks_count": 143
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 740,
+    "stargazers_count": 741,
     "open_issues_count": 40,
     "forks_count": 77
   },
@@ -123,7 +123,7 @@
     "full_name": "gnuradio/gr-inspector",
     "stargazers_count": 243,
     "open_issues_count": 6,
-    "forks_count": 85
+    "forks_count": 84
   },
   {
     "full_name": "adamgann/gr-messageutils",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1818,
+    "stargazers_count": 1819,
     "open_issues_count": 56,
     "forks_count": 238
   },
