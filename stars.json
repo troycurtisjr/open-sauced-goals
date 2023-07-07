@@ -31,7 +31,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9533,
+    "stargazers_count": 9537,
     "open_issues_count": 35,
     "forks_count": 824
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 83,
-    "open_issues_count": 60,
+    "stargazers_count": 84,
+    "open_issues_count": 59,
     "forks_count": 51
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2348,
-    "open_issues_count": 195,
+    "stargazers_count": 2352,
+    "open_issues_count": 197,
     "forks_count": 95
   },
   {
@@ -87,7 +87,7 @@
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 673,
     "open_issues_count": 16,
-    "forks_count": 144
+    "forks_count": 143
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "duggabe/gr-morse-code-gen",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "BatchDrake/SigDigger",
     "stargazers_count": 743,
-    "open_issues_count": 40,
+    "open_issues_count": 41,
     "forks_count": 77
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 6,
     "forks_count": 84
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1822,
+    "stargazers_count": 1823,
     "open_issues_count": 56,
     "forks_count": 239
   },
