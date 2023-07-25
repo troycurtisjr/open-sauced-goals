@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9578,
+    "stargazers_count": 9585,
     "open_issues_count": 34,
-    "forks_count": 827
+    "forks_count": 828
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 88,
-    "open_issues_count": 60,
+    "open_issues_count": 62,
     "forks_count": 52
   },
   {
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "fedora-infra/fedmenu",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 6,
     "forks_count": 10
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2363,
-    "open_issues_count": 197,
+    "stargazers_count": 2366,
+    "open_issues_count": 198,
     "forks_count": 94
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 676,
-    "open_issues_count": 32,
+    "stargazers_count": 675,
+    "open_issues_count": 21,
     "forks_count": 147
   },
   {
     "full_name": "osh/gr-pyqt",
     "stargazers_count": 28,
     "open_issues_count": 3,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "duggabe/gr-webserver",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 747,
+    "stargazers_count": 748,
     "open_issues_count": 42,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "madengr/ham2mon",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1828,
+    "stargazers_count": 1833,
     "open_issues_count": 58,
     "forks_count": 239
   },
   {
     "full_name": "lutusp/PLSDR",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 13,
     "forks_count": 20
   },
@@ -159,13 +159,13 @@
     "full_name": "bistromath/gr-air-modes",
     "stargazers_count": 415,
     "open_issues_count": 15,
-    "forks_count": 131
+    "forks_count": 130
   },
   {
     "full_name": "bistromath/gr-ais",
     "stargazers_count": 128,
     "open_issues_count": 2,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "dl1ksv/gr-ax25",
