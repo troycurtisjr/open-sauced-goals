@@ -31,7 +31,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9703,
+    "stargazers_count": 9710,
     "open_issues_count": 35,
     "forks_count": 833
   },
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 88,
-    "open_issues_count": 58,
+    "open_issues_count": 56,
     "forks_count": 51
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2425,
-    "open_issues_count": 220,
+    "stargazers_count": 2430,
+    "open_issues_count": 222,
     "forks_count": 93
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 267,
+    "stargazers_count": 266,
     "open_issues_count": 27,
     "forks_count": 75
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 684,
+    "stargazers_count": 685,
     "open_issues_count": 21,
     "forks_count": 150
   },
@@ -110,18 +110,18 @@
   {
     "full_name": "BatchDrake/SigDigger",
     "stargazers_count": 781,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "forks_count": 83
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 244,
+    "stargazers_count": 243,
     "open_issues_count": 9,
     "forks_count": 62
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 250,
+    "stargazers_count": 249,
     "open_issues_count": 6,
     "forks_count": 84
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "lutusp/PLSDR",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 13,
     "forks_count": 20
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 417,
+    "stargazers_count": 416,
     "open_issues_count": 15,
     "forks_count": 130
   },
   {
     "full_name": "bistromath/gr-ais",
-    "stargazers_count": 129,
+    "stargazers_count": 128,
     "open_issues_count": 2,
     "forks_count": 44
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "argilo/gr-ham",
-    "stargazers_count": 37,
+    "stargazers_count": 36,
     "open_issues_count": 2,
     "forks_count": 7
   }
