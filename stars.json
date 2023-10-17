@@ -31,14 +31,14 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9762,
+    "stargazers_count": 9772,
     "open_issues_count": 38,
-    "forks_count": 836
+    "forks_count": 838
   },
   {
     "full_name": "pelican-plugins/avatar",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 90,
-    "open_issues_count": 58,
+    "open_issues_count": 53,
     "forks_count": 51
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2457,
-    "open_issues_count": 225,
-    "forks_count": 94
+    "stargazers_count": 2460,
+    "open_issues_count": 232,
+    "forks_count": 93
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 268,
+    "stargazers_count": 271,
     "open_issues_count": 27,
     "forks_count": 75
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 690,
+    "stargazers_count": 693,
     "open_issues_count": 19,
     "forks_count": 150
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 789,
+    "stargazers_count": 793,
     "open_issues_count": 45,
     "forks_count": 83
   },
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1877,
-    "open_issues_count": 62,
+    "stargazers_count": 1878,
+    "open_issues_count": 55,
     "forks_count": 244
   },
   {
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 417,
+    "stargazers_count": 419,
     "open_issues_count": 15,
     "forks_count": 131
   },
   {
     "full_name": "bistromath/gr-ais",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 2,
     "forks_count": 44
   },
   {
     "full_name": "dl1ksv/gr-ax25",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 2,
     "forks_count": 20
   },
