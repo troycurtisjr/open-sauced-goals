@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 70,
+    "stargazers_count": 76,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9911,
+    "stargazers_count": 9921,
     "open_issues_count": 42,
-    "forks_count": 847
+    "forks_count": 849
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -56,7 +56,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 93,
-    "open_issues_count": 56,
+    "open_issues_count": 54,
     "forks_count": 52
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2508,
-    "open_issues_count": 235,
-    "forks_count": 96
+    "stargazers_count": 2514,
+    "open_issues_count": 238,
+    "forks_count": 98
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 702,
-    "open_issues_count": 20,
+    "stargazers_count": 701,
+    "open_issues_count": 15,
     "forks_count": 149
   },
   {
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 807,
+    "stargazers_count": 809,
     "open_issues_count": 43,
     "forks_count": 86
   },
   {
     "full_name": "madengr/ham2mon",
     "stargazers_count": 249,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 63
   },
   {
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1909,
+    "stargazers_count": 1912,
     "open_issues_count": 50,
-    "forks_count": 248
+    "forks_count": 250
   },
   {
     "full_name": "lutusp/PLSDR",
@@ -159,7 +159,7 @@
     "full_name": "bastibl/gr-rds",
     "stargazers_count": 213,
     "open_issues_count": 2,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "bistromath/gr-air-modes",
