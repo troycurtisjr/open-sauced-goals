@@ -1,7 +1,7 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 76,
+    "stargazers_count": 78,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9921,
-    "open_issues_count": 42,
+    "stargazers_count": 9923,
+    "open_issues_count": 43,
     "forks_count": 849
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2514,
-    "open_issues_count": 238,
+    "stargazers_count": 2516,
+    "open_issues_count": 240,
     "forks_count": 98
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 27,
     "forks_count": 75
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 809,
+    "stargazers_count": 811,
     "open_issues_count": 43,
     "forks_count": 86
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 250,
+    "stargazers_count": 252,
     "open_issues_count": 8,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "adamgann/gr-messageutils",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1912,
+    "stargazers_count": 1913,
     "open_issues_count": 50,
     "forks_count": 250
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "bistromath/gr-ais",
-    "stargazers_count": 130,
+    "stargazers_count": 129,
     "open_issues_count": 2,
     "forks_count": 45
   },
