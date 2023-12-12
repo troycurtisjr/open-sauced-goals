@@ -1,8 +1,8 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 78,
-    "open_issues_count": 1,
+    "stargazers_count": 79,
+    "open_issues_count": 0,
     "forks_count": 10
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 9923,
-    "open_issues_count": 43,
+    "stargazers_count": 9932,
+    "open_issues_count": 42,
     "forks_count": 849
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 54,
     "forks_count": 52
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2516,
-    "open_issues_count": 240,
+    "stargazers_count": 2521,
+    "open_issues_count": 241,
     "forks_count": 98
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 701,
+    "stargazers_count": 702,
     "open_issues_count": 15,
     "forks_count": 149
   },
@@ -116,8 +116,8 @@
   {
     "full_name": "BatchDrake/SigDigger",
     "stargazers_count": 811,
-    "open_issues_count": 43,
-    "forks_count": 86
+    "open_issues_count": 45,
+    "forks_count": 87
   },
   {
     "full_name": "madengr/ham2mon",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 422,
+    "stargazers_count": 423,
     "open_issues_count": 15,
     "forks_count": 131
   },
