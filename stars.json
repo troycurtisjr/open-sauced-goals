@@ -1,7 +1,7 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 2,
     "forks_count": 16
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10032,
+    "stargazers_count": 10042,
     "open_issues_count": 44,
     "forks_count": 855
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 95,
-    "open_issues_count": 55,
-    "forks_count": 52
+    "stargazers_count": 97,
+    "open_issues_count": 54,
+    "forks_count": 54
   },
   {
     "full_name": "NastuzziSamy/ulauncher-google-search",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "fedora-infra/fedmenu",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 6,
     "forks_count": 10
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2543,
+    "stargazers_count": 2546,
     "open_issues_count": 249,
     "forks_count": 99
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "ghostop14/gr-clenabled",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 10,
     "forks_count": 15
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "duggabe/gr-morse-code-gen",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 827,
+    "stargazers_count": 830,
     "open_issues_count": 44,
     "forks_count": 89
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1926,
+    "stargazers_count": 1928,
     "open_issues_count": 51,
     "forks_count": 250
   },
@@ -171,7 +171,7 @@
     "full_name": "bistromath/gr-ais",
     "stargazers_count": 129,
     "open_issues_count": 2,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "dl1ksv/gr-ax25",
