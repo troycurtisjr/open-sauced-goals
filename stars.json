@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 2,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10057,
-    "open_issues_count": 44,
-    "forks_count": 858
+    "stargazers_count": 10085,
+    "open_issues_count": 41,
+    "forks_count": 859
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2553,
-    "open_issues_count": 249,
+    "stargazers_count": 2554,
+    "open_issues_count": 251,
     "forks_count": 99
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 281,
+    "stargazers_count": 282,
     "open_issues_count": 27,
     "forks_count": 75
   },
   {
     "full_name": "ghostop14/gr-clenabled",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 10,
     "forks_count": 15
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 715,
+    "stargazers_count": 716,
     "open_issues_count": 15,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 834,
-    "open_issues_count": 44,
+    "stargazers_count": 838,
+    "open_issues_count": 43,
     "forks_count": 89
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 252,
+    "stargazers_count": 253,
     "open_issues_count": 8,
     "forks_count": 86
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1932,
+    "stargazers_count": 1937,
     "open_issues_count": 51,
     "forks_count": 251
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 425,
+    "stargazers_count": 426,
     "open_issues_count": 15,
     "forks_count": 131
   },
