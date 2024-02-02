@@ -1,7 +1,7 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 124,
+    "stargazers_count": 127,
     "open_issues_count": 2,
     "forks_count": 19
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10113,
+    "stargazers_count": 10121,
     "open_issues_count": 41,
     "forks_count": 862
   },
@@ -56,7 +56,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 97,
-    "open_issues_count": 56,
+    "open_issues_count": 55,
     "forks_count": 54
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2559,
+    "stargazers_count": 2558,
     "open_issues_count": 253,
     "forks_count": 100
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 282,
+    "stargazers_count": 284,
     "open_issues_count": 27,
     "forks_count": 75
   },
@@ -92,8 +92,8 @@
   {
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 717,
-    "open_issues_count": 16,
-    "forks_count": 153
+    "open_issues_count": 17,
+    "forks_count": 154
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 840,
+    "stargazers_count": 842,
     "open_issues_count": 43,
     "forks_count": 89
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1939,
+    "stargazers_count": 1944,
     "open_issues_count": 51,
-    "forks_count": 254
+    "forks_count": 255
   },
   {
     "full_name": "lutusp/PLSDR",
