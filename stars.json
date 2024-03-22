@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 155,
+    "stargazers_count": 165,
     "open_issues_count": 2,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10292,
+    "stargazers_count": 10306,
     "open_issues_count": 40,
     "forks_count": 841
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2593,
-    "open_issues_count": 260,
+    "stargazers_count": 2595,
+    "open_issues_count": 261,
     "forks_count": 100
   },
   {
@@ -129,7 +129,7 @@
     "full_name": "gnuradio/gr-inspector",
     "stargazers_count": 260,
     "open_issues_count": 8,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "adamgann/gr-messageutils",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 1966,
+    "stargazers_count": 1968,
     "open_issues_count": 51,
     "forks_count": 253
   },
