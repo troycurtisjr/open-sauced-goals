@@ -1,8 +1,8 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 211,
-    "open_issues_count": 3,
+    "stargazers_count": 212,
+    "open_issues_count": 1,
     "forks_count": 28
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10489,
+    "stargazers_count": 10499,
     "open_issues_count": 41,
-    "forks_count": 854
+    "forks_count": 856
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 102,
-    "open_issues_count": 39,
+    "stargazers_count": 103,
+    "open_issues_count": 42,
     "forks_count": 54
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2648,
+    "stargazers_count": 2651,
     "open_issues_count": 270,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 895,
+    "stargazers_count": 897,
     "open_issues_count": 48,
     "forks_count": 91
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 254,
+    "stargazers_count": 256,
     "open_issues_count": 9,
     "forks_count": 64
   },
@@ -123,7 +123,7 @@
     "full_name": "gnuradio/gr-inspector",
     "stargazers_count": 263,
     "open_issues_count": 8,
-    "forks_count": 88
+    "forks_count": 90
   },
   {
     "full_name": "adamgann/gr-messageutils",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2001,
+    "stargazers_count": 2003,
     "open_issues_count": 51,
     "forks_count": 258
   },
