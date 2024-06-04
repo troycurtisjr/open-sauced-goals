@@ -1,7 +1,7 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 216,
+    "stargazers_count": 220,
     "open_issues_count": 1,
     "forks_count": 29
   },
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10509,
-    "open_issues_count": 41,
+    "stargazers_count": 10521,
+    "open_issues_count": 42,
     "forks_count": 856
   },
   {
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 103,
-    "open_issues_count": 36,
+    "open_issues_count": 29,
     "forks_count": 54
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2652,
-    "open_issues_count": 270,
+    "stargazers_count": 2655,
+    "open_issues_count": 272,
     "forks_count": 102
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 300,
+    "stargazers_count": 301,
     "open_issues_count": 27,
     "forks_count": 75
   },
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 752,
-    "open_issues_count": 16,
+    "stargazers_count": 753,
+    "open_issues_count": 17,
     "forks_count": 156
   },
   {
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "duggabe/gr-morse-code-gen",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 900,
+    "stargazers_count": 903,
     "open_issues_count": 48,
     "forks_count": 91
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2004,
+    "stargazers_count": 2005,
     "open_issues_count": 52,
     "forks_count": 258
   },
