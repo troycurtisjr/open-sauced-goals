@@ -1,8 +1,8 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 220,
-    "open_issues_count": 1,
+    "stargazers_count": 221,
+    "open_issues_count": 2,
     "forks_count": 29
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10521,
-    "open_issues_count": 42,
-    "forks_count": 856
+    "stargazers_count": 10527,
+    "open_issues_count": 43,
+    "forks_count": 857
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 103,
-    "open_issues_count": 29,
+    "open_issues_count": 26,
     "forks_count": 54
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2655,
-    "open_issues_count": 272,
+    "stargazers_count": 2657,
+    "open_issues_count": 273,
     "forks_count": 102
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 753,
+    "stargazers_count": 755,
     "open_issues_count": 17,
     "forks_count": 156
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2005,
+    "stargazers_count": 2008,
     "open_issues_count": 52,
-    "forks_count": 258
+    "forks_count": 260
   },
   {
     "full_name": "lutusp/PLSDR",
