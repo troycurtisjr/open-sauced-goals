@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 245,
+    "stargazers_count": 248,
     "open_issues_count": 1,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10580,
-    "open_issues_count": 47,
+    "stargazers_count": 10595,
+    "open_issues_count": 46,
     "forks_count": 857
   },
   {
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 105,
-    "open_issues_count": 20,
+    "open_issues_count": 17,
     "forks_count": 54
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2679,
+    "stargazers_count": 2680,
     "open_issues_count": 274,
     "forks_count": 103
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 759,
+    "stargazers_count": 758,
     "open_issues_count": 17,
     "forks_count": 156
   },
@@ -103,14 +103,14 @@
   },
   {
     "full_name": "duggabe/gr-morse-code-gen",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 913,
-    "open_issues_count": 49,
+    "stargazers_count": 914,
+    "open_issues_count": 50,
     "forks_count": 91
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 6,
     "forks_count": 90
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2032,
+    "stargazers_count": 2033,
     "open_issues_count": 53,
     "forks_count": 261
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 436,
+    "stargazers_count": 437,
     "open_issues_count": 15,
     "forks_count": 127
   },
