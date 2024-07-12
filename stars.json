@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 249,
+    "stargazers_count": 251,
     "open_issues_count": 1,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10605,
+    "stargazers_count": 10616,
     "open_issues_count": 46,
     "forks_count": 857
   },
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 106,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 54
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 920,
+    "stargazers_count": 921,
     "open_issues_count": 50,
     "forks_count": 91
   },
@@ -134,14 +134,14 @@
   {
     "full_name": "dl1ksv/gr-display",
     "stargazers_count": 32,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2037,
-    "open_issues_count": 53,
-    "forks_count": 262
+    "stargazers_count": 2039,
+    "open_issues_count": 54,
+    "forks_count": 263
   },
   {
     "full_name": "lutusp/PLSDR",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "bastibl/gr-rds",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 0,
     "forks_count": 71
   },
