@@ -1,7 +1,7 @@
 [
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 262,
+    "stargazers_count": 273,
     "open_issues_count": 1,
     "forks_count": 35
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10631,
+    "stargazers_count": 10641,
     "open_issues_count": 46,
     "forks_count": 856
   },
@@ -50,7 +50,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 106,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 54
   },
   {
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2690,
+    "stargazers_count": 2693,
     "open_issues_count": 274,
-    "forks_count": 103
+    "forks_count": 102
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 305,
+    "stargazers_count": 306,
     "open_issues_count": 27,
     "forks_count": 75
   },
   {
     "full_name": "ghostop14/gr-clenabled",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 11,
     "forks_count": 15
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 760,
-    "open_issues_count": 17,
-    "forks_count": 156
+    "stargazers_count": 761,
+    "open_issues_count": 27,
+    "forks_count": 155
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "duggabe/gr-morse-code-gen",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 923,
+    "stargazers_count": 925,
     "open_issues_count": 50,
     "forks_count": 91
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 268,
+    "stargazers_count": 269,
     "open_issues_count": 6,
     "forks_count": 90
   },
@@ -134,25 +134,25 @@
   {
     "full_name": "dl1ksv/gr-display",
     "stargazers_count": 32,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2040,
+    "stargazers_count": 2039,
     "open_issues_count": 54,
     "forks_count": 263
   },
   {
     "full_name": "lutusp/PLSDR",
     "stargazers_count": 155,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 21
   },
   {
     "full_name": "bastibl/gr-rds",
     "stargazers_count": 218,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 71
   },
   {
