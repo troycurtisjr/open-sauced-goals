@@ -1,27 +1,27 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 94,
-    "open_issues_count": 1,
-    "forks_count": 39
+    "stargazers_count": 96,
+    "open_issues_count": 2,
+    "forks_count": 41
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 162,
+    "stargazers_count": 164,
     "open_issues_count": 40,
     "forks_count": 23
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 389,
-    "open_issues_count": 1,
-    "forks_count": 41
+    "stargazers_count": 392,
+    "open_issues_count": 2,
+    "forks_count": 42
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10984,
-    "open_issues_count": 47,
-    "forks_count": 873
+    "stargazers_count": 10997,
+    "open_issues_count": 46,
+    "forks_count": 875
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 111,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 59
   },
   {
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2782,
-    "open_issues_count": 281,
+    "stargazers_count": 2783,
+    "open_issues_count": 280,
     "forks_count": 108
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 787,
+    "stargazers_count": 788,
     "open_issues_count": 18,
     "forks_count": 163
   },
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "duggabe/gr-morse-code-gen",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 981,
-    "open_issues_count": 51,
+    "stargazers_count": 983,
+    "open_issues_count": 52,
     "forks_count": 93
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 262,
+    "stargazers_count": 263,
     "open_issues_count": 9,
     "forks_count": 65
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2102,
+    "stargazers_count": 2104,
     "open_issues_count": 52,
     "forks_count": 269
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "bastibl/gr-rds",
-    "stargazers_count": 224,
+    "stargazers_count": 225,
     "open_issues_count": 1,
     "forks_count": 73
   },
