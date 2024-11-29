@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 2,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11011,
+    "stargazers_count": 11016,
     "open_issues_count": 46,
-    "forks_count": 877
+    "forks_count": 878
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2787,
+    "stargazers_count": 2790,
     "open_issues_count": 280,
     "forks_count": 108
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 987,
+    "stargazers_count": 990,
     "open_issues_count": 53,
     "forks_count": 96
   },
@@ -159,7 +159,7 @@
     "full_name": "miek/inspectrum",
     "stargazers_count": 2112,
     "open_issues_count": 52,
-    "forks_count": 270
+    "forks_count": 271
   },
   {
     "full_name": "lutusp/PLSDR",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 445,
+    "stargazers_count": 446,
     "open_issues_count": 15,
-    "forks_count": 128
+    "forks_count": 129
   }
 ]
