@@ -13,14 +13,14 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 166,
+    "stargazers_count": 168,
     "open_issues_count": 40,
     "forks_count": 23
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
     "stargazers_count": 397,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 43
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11016,
+    "stargazers_count": 11025,
     "open_issues_count": 46,
-    "forks_count": 878
+    "forks_count": 879
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2790,
+    "stargazers_count": 2793,
     "open_issues_count": 280,
     "forks_count": 108
   },
@@ -104,8 +104,8 @@
   {
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 790,
-    "open_issues_count": 18,
-    "forks_count": 163
+    "open_issues_count": 19,
+    "forks_count": 164
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 990,
+    "stargazers_count": 991,
     "open_issues_count": 53,
     "forks_count": 96
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2112,
+    "stargazers_count": 2113,
     "open_issues_count": 52,
     "forks_count": 271
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 446,
+    "stargazers_count": 447,
     "open_issues_count": 15,
     "forks_count": 129
   }
