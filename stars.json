@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 107,
+    "stargazers_count": 113,
     "open_issues_count": 2,
-    "forks_count": 49
+    "forks_count": 53
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 169,
-    "open_issues_count": 40,
+    "stargazers_count": 170,
+    "open_issues_count": 41,
     "forks_count": 23
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 406,
+    "stargazers_count": 411,
     "open_issues_count": 2,
     "forks_count": 44
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11070,
+    "stargazers_count": 11075,
     "open_issues_count": 46,
     "forks_count": 881
   },
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 112,
-    "open_issues_count": 18,
+    "open_issues_count": 17,
     "forks_count": 60
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2798,
+    "stargazers_count": 2799,
     "open_issues_count": 280,
     "forks_count": 109
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 793,
-    "open_issues_count": 19,
+    "stargazers_count": 794,
+    "open_issues_count": 25,
     "forks_count": 165
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1003,
-    "open_issues_count": 54,
-    "forks_count": 98
+    "stargazers_count": 1005,
+    "open_issues_count": 55,
+    "forks_count": 99
   },
   {
     "full_name": "madengr/ham2mon",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "lutusp/PLSDR",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 15,
     "forks_count": 21
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 447,
+    "stargazers_count": 448,
     "open_issues_count": 15,
     "forks_count": 129
   }
