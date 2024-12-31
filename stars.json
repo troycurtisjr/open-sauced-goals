@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 130,
-    "open_issues_count": 3,
-    "forks_count": 59
+    "stargazers_count": 137,
+    "open_issues_count": 5,
+    "forks_count": 63
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 170,
-    "open_issues_count": 40,
+    "stargazers_count": 169,
+    "open_issues_count": 41,
     "forks_count": 23
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
     "stargazers_count": 411,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 45
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11097,
+    "stargazers_count": 11107,
     "open_issues_count": 46,
-    "forks_count": 882
+    "forks_count": 886
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 112,
-    "open_issues_count": 17,
-    "forks_count": 60
+    "stargazers_count": 113,
+    "open_issues_count": 18,
+    "forks_count": 61
   },
   {
     "full_name": "NastuzziSamy/ulauncher-google-search",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2805,
+    "stargazers_count": 2806,
     "open_issues_count": 281,
-    "forks_count": 109
+    "forks_count": 110
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 797,
+    "stargazers_count": 800,
     "open_issues_count": 20,
-    "forks_count": 165
+    "forks_count": 167
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1007,
+    "stargazers_count": 1008,
     "open_issues_count": 55,
     "forks_count": 99
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 264,
+    "stargazers_count": 262,
     "open_issues_count": 9,
     "forks_count": 65
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2124,
+    "stargazers_count": 2126,
     "open_issues_count": 52,
     "forks_count": 270
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "bastibl/gr-rds",
-    "stargazers_count": 227,
+    "stargazers_count": 228,
     "open_issues_count": 1,
     "forks_count": 73
   },
