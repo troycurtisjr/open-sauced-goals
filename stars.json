@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 152,
-    "open_issues_count": 6,
-    "forks_count": 70
+    "stargazers_count": 156,
+    "open_issues_count": 4,
+    "forks_count": 71
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 170,
-    "open_issues_count": 41,
+    "stargazers_count": 171,
+    "open_issues_count": 42,
     "forks_count": 23
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 412,
-    "open_issues_count": 2,
+    "stargazers_count": 415,
+    "open_issues_count": 0,
     "forks_count": 45
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11133,
-    "open_issues_count": 48,
-    "forks_count": 888
+    "stargazers_count": 11143,
+    "open_issues_count": 49,
+    "forks_count": 890
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 114,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 61
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2808,
+    "stargazers_count": 2811,
     "open_issues_count": 281,
     "forks_count": 110
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1013,
+    "stargazers_count": 1019,
     "open_issues_count": 56,
     "forks_count": 99
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2130,
+    "stargazers_count": 2133,
     "open_issues_count": 52,
     "forks_count": 270
   },
