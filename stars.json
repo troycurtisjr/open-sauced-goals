@@ -1,7 +1,7 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 156,
+    "stargazers_count": 158,
     "open_issues_count": 4,
     "forks_count": 71
   },
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 42,
     "forks_count": 23
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 415,
+    "stargazers_count": 418,
     "open_issues_count": 0,
     "forks_count": 45
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11143,
+    "stargazers_count": 11163,
     "open_issues_count": 49,
     "forks_count": 890
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 17,
     "forks_count": 61
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2811,
+    "stargazers_count": 2814,
     "open_issues_count": 281,
     "forks_count": 110
   },
@@ -104,7 +104,7 @@
   {
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 800,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 167
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1019,
-    "open_issues_count": 56,
+    "stargazers_count": 1020,
+    "open_issues_count": 57,
     "forks_count": 99
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 262,
+    "stargazers_count": 263,
     "open_issues_count": 9,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "gnuradio/gr-inspector",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2133,
-    "open_issues_count": 52,
-    "forks_count": 270
+    "stargazers_count": 2136,
+    "open_issues_count": 53,
+    "forks_count": 271
   },
   {
     "full_name": "lutusp/PLSDR",
