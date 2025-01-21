@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 4,
-    "forks_count": 71
+    "forks_count": 73
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 44,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 422,
+    "stargazers_count": 426,
     "open_issues_count": 0,
     "forks_count": 46
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11175,
-    "open_issues_count": 47,
-    "forks_count": 891
+    "stargazers_count": 11184,
+    "open_issues_count": 48,
+    "forks_count": 890
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2816,
+    "stargazers_count": 2820,
     "open_issues_count": 281,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -104,7 +104,7 @@
   {
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 800,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 167
   },
   {
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1020,
+    "stargazers_count": 1021,
     "open_issues_count": 57,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 9,
     "forks_count": 66
   },
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2136,
+    "stargazers_count": 2137,
     "open_issues_count": 53,
     "forks_count": 271
   },
   {
     "full_name": "lutusp/PLSDR",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 15,
     "forks_count": 21
   },
   {
     "full_name": "bastibl/gr-rds",
     "stargazers_count": 229,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 73
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 450,
+    "stargazers_count": 451,
     "open_issues_count": 15,
     "forks_count": 130
   }
