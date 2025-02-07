@@ -1,7 +1,7 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 165,
+    "stargazers_count": 166,
     "open_issues_count": 8,
     "forks_count": 77
   },
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 175,
+    "stargazers_count": 179,
     "open_issues_count": 56,
     "forks_count": 26
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 435,
+    "stargazers_count": 436,
     "open_issues_count": 0,
     "forks_count": 46
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11213,
-    "open_issues_count": 48,
-    "forks_count": 892
+    "stargazers_count": 11224,
+    "open_issues_count": 49,
+    "forks_count": 893
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,8 +68,8 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 116,
-    "open_issues_count": 17,
-    "forks_count": 61
+    "open_issues_count": 18,
+    "forks_count": 62
   },
   {
     "full_name": "NastuzziSamy/ulauncher-google-search",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2837,
-    "open_issues_count": 279,
-    "forks_count": 112
+    "stargazers_count": 2844,
+    "open_issues_count": 280,
+    "forks_count": 113
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 802,
-    "open_issues_count": 18,
-    "forks_count": 168
+    "stargazers_count": 803,
+    "open_issues_count": 19,
+    "forks_count": 170
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1027,
-    "open_issues_count": 58,
+    "stargazers_count": 1028,
+    "open_issues_count": 59,
     "forks_count": 101
   },
   {
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2146,
+    "stargazers_count": 2151,
     "open_issues_count": 53,
-    "forks_count": 272
+    "forks_count": 271
   },
   {
     "full_name": "lutusp/PLSDR",
