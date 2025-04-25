@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 9,
-    "forks_count": 85
+    "forks_count": 87
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 204,
-    "open_issues_count": 65,
+    "stargazers_count": 205,
+    "open_issues_count": 64,
     "forks_count": 35
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11416,
+    "stargazers_count": 11436,
     "open_issues_count": 49,
     "forks_count": 904
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 20,
     "forks_count": 65
   },
@@ -86,12 +86,12 @@
   {
     "full_name": "terminusdb/terminusdb",
     "stargazers_count": 2917,
-    "open_issues_count": 287,
+    "open_issues_count": 289,
     "forks_count": 115
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 322,
+    "stargazers_count": 323,
     "open_issues_count": 27,
     "forks_count": 77
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1064,
+    "stargazers_count": 1065,
     "open_issues_count": 65,
     "forks_count": 107
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2193,
+    "stargazers_count": 2196,
     "open_issues_count": 53,
     "forks_count": 272
   },
@@ -177,6 +177,6 @@
     "full_name": "bistromath/gr-air-modes",
     "stargazers_count": 454,
     "open_issues_count": 15,
-    "forks_count": 130
+    "forks_count": 131
   }
 ]
