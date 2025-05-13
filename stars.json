@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 188,
+    "stargazers_count": 191,
     "open_issues_count": 10,
-    "forks_count": 95
+    "forks_count": 100
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 208,
-    "open_issues_count": 66,
+    "stargazers_count": 212,
+    "open_issues_count": 59,
     "forks_count": 35
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 484,
+    "stargazers_count": 489,
     "open_issues_count": 2,
     "forks_count": 53
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11486,
+    "stargazers_count": 11500,
     "open_issues_count": 50,
-    "forks_count": 908
+    "forks_count": 909
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 121,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 66
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2933,
+    "stargazers_count": 2938,
     "open_issues_count": 25,
     "forks_count": 113
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1071,
+    "stargazers_count": 1072,
     "open_issues_count": 65,
     "forks_count": 107
   },
@@ -141,7 +141,7 @@
     "full_name": "gnuradio/gr-inspector",
     "stargazers_count": 286,
     "open_issues_count": 5,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "adamgann/gr-messageutils",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2205,
+    "stargazers_count": 2206,
     "open_issues_count": 53,
     "forks_count": 272
   },
