@@ -2,7 +2,7 @@
   {
     "full_name": "teaxyz/chai",
     "stargazers_count": 191,
-    "open_issues_count": 10,
+    "open_issues_count": 7,
     "forks_count": 103
   },
   {
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 219,
+    "stargazers_count": 220,
     "open_issues_count": 58,
     "forks_count": 36
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 496,
+    "stargazers_count": 500,
     "open_issues_count": 3,
     "forks_count": 53
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11545,
-    "open_issues_count": 54,
+    "stargazers_count": 11553,
+    "open_issues_count": 49,
     "forks_count": 911
   },
   {
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 124,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 66
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2958,
-    "open_issues_count": 25,
-    "forks_count": 114
+    "stargazers_count": 2961,
+    "open_issues_count": 26,
+    "forks_count": 116
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -104,7 +104,7 @@
   {
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 834,
-    "open_issues_count": 24,
+    "open_issues_count": 23,
     "forks_count": 175
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1092,
+    "stargazers_count": 1094,
     "open_issues_count": 65,
     "forks_count": 109
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 5,
     "forks_count": 98
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2215,
+    "stargazers_count": 2218,
     "open_issues_count": 53,
     "forks_count": 274
   },
   {
     "full_name": "lutusp/PLSDR",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 15,
     "forks_count": 21
   },
