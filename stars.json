@@ -1,9 +1,9 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 194,
-    "open_issues_count": 9,
-    "forks_count": 101
+    "stargazers_count": 195,
+    "open_issues_count": 11,
+    "forks_count": 104
   },
   {
     "full_name": "elizabethsiegle/exploit-grandma",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 227,
+    "stargazers_count": 229,
     "open_issues_count": 53,
     "forks_count": 37
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11637,
-    "open_issues_count": 51,
-    "forks_count": 918
+    "stargazers_count": 11656,
+    "open_issues_count": 50,
+    "forks_count": 921
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 126,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 65
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2984,
+    "stargazers_count": 2988,
     "open_issues_count": 26,
     "forks_count": 117
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 843,
+    "stargazers_count": 846,
     "open_issues_count": 23,
     "forks_count": 177
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1111,
+    "stargazers_count": 1117,
     "open_issues_count": 65,
     "forks_count": 110
   },
   {
     "full_name": "madengr/ham2mon",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 9,
     "forks_count": 66
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2236,
+    "stargazers_count": 2237,
     "open_issues_count": 53,
     "forks_count": 276
   },
@@ -171,7 +171,7 @@
     "full_name": "bastibl/gr-rds",
     "stargazers_count": 236,
     "open_issues_count": 6,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "bistromath/gr-air-modes",
