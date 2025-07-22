@@ -14,14 +14,14 @@
   {
     "full_name": "ray-project/deltacat",
     "stargazers_count": 232,
-    "open_issues_count": 53,
+    "open_issues_count": 52,
     "forks_count": 38
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 511,
-    "open_issues_count": 4,
-    "forks_count": 53
+    "stargazers_count": 516,
+    "open_issues_count": 2,
+    "forks_count": 52
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11677,
+    "stargazers_count": 11693,
     "open_issues_count": 50,
-    "forks_count": 923
+    "forks_count": 927
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2994,
+    "stargazers_count": 2998,
     "open_issues_count": 27,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "ghostop14/gr-clenabled",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 12,
     "forks_count": 16
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 848,
+    "stargazers_count": 849,
     "open_issues_count": 23,
     "forks_count": 177
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1123,
+    "stargazers_count": 1125,
     "open_issues_count": 66,
     "forks_count": 111
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 291,
+    "stargazers_count": 292,
     "open_issues_count": 5,
     "forks_count": 98
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2247,
+    "stargazers_count": 2249,
     "open_issues_count": 54,
-    "forks_count": 279
+    "forks_count": 280
   },
   {
     "full_name": "lutusp/PLSDR",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 15,
     "forks_count": 21
   },
