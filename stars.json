@@ -21,7 +21,7 @@
     "full_name": "bitol-io/open-data-contract-standard",
     "stargazers_count": 526,
     "open_issues_count": 1,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11752,
+    "stargazers_count": 11757,
     "open_issues_count": 50,
     "forks_count": 934
   },
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 129,
-    "open_issues_count": 18,
+    "stargazers_count": 130,
+    "open_issues_count": 19,
     "forks_count": 66
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3027,
+    "stargazers_count": 3030,
     "open_issues_count": 28,
     "forks_count": 120
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1138,
+    "stargazers_count": 1139,
     "open_issues_count": 66,
     "forks_count": 112
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 5,
     "forks_count": 100
   },
@@ -159,7 +159,7 @@
     "full_name": "miek/inspectrum",
     "stargazers_count": 2263,
     "open_issues_count": 54,
-    "forks_count": 281
+    "forks_count": 280
   },
   {
     "full_name": "lutusp/PLSDR",
@@ -171,11 +171,11 @@
     "full_name": "bastibl/gr-rds",
     "stargazers_count": 237,
     "open_issues_count": 6,
-    "forks_count": 78
+    "forks_count": 77
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 457,
+    "stargazers_count": 458,
     "open_issues_count": 15,
     "forks_count": 131
   }
