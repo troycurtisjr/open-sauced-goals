@@ -14,12 +14,12 @@
   {
     "full_name": "ray-project/deltacat",
     "stargazers_count": 235,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 37
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 526,
+    "stargazers_count": 530,
     "open_issues_count": 1,
     "forks_count": 54
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11757,
+    "stargazers_count": 11771,
     "open_issues_count": 50,
     "forks_count": 934
   },
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 130,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 66
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3030,
+    "stargazers_count": 3036,
     "open_issues_count": 28,
     "forks_count": 120
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1139,
+    "stargazers_count": 1142,
     "open_issues_count": 66,
-    "forks_count": 112
+    "forks_count": 113
   },
   {
     "full_name": "madengr/ham2mon",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2263,
-    "open_issues_count": 54,
+    "stargazers_count": 2265,
+    "open_issues_count": 55,
     "forks_count": 280
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "bastibl/gr-rds",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 6,
     "forks_count": 77
   },
