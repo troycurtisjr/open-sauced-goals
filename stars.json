@@ -2,7 +2,7 @@
   {
     "full_name": "teaxyz/chai",
     "stargazers_count": 203,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 106
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 541,
+    "stargazers_count": 543,
     "open_issues_count": 1,
     "forks_count": 56
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11801,
+    "stargazers_count": 11811,
     "open_issues_count": 50,
-    "forks_count": 937
+    "forks_count": 938
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -69,7 +69,7 @@
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 129,
     "open_issues_count": 19,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "NastuzziSamy/ulauncher-google-search",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3049,
+    "stargazers_count": 3051,
     "open_issues_count": 30,
     "forks_count": 120
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 862,
+    "stargazers_count": 861,
     "open_issues_count": 23,
     "forks_count": 179
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1145,
+    "stargazers_count": 1147,
     "open_issues_count": 66,
     "forks_count": 113
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 5,
     "forks_count": 100
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2275,
+    "stargazers_count": 2280,
     "open_issues_count": 58,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "lutusp/PLSDR",
