@@ -19,9 +19,9 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 566,
+    "stargazers_count": 569,
     "open_issues_count": 4,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11881,
-    "open_issues_count": 52,
-    "forks_count": 941
+    "stargazers_count": 11893,
+    "open_issues_count": 53,
+    "forks_count": 944
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -68,7 +68,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 130,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 66
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3075,
-    "open_issues_count": 22,
-    "forks_count": 124
+    "stargazers_count": 3080,
+    "open_issues_count": 23,
+    "forks_count": 125
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
     "stargazers_count": 322,
     "open_issues_count": 27,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "ghostop14/gr-clenabled",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 871,
-    "open_issues_count": 26,
+    "stargazers_count": 873,
+    "open_issues_count": 23,
     "forks_count": 179
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1161,
-    "open_issues_count": 67,
+    "stargazers_count": 1162,
+    "open_issues_count": 68,
     "forks_count": 115
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2303,
+    "stargazers_count": 2306,
     "open_issues_count": 58,
     "forks_count": 282
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "bastibl/gr-rds",
-    "stargazers_count": 240,
-    "open_issues_count": 8,
-    "forks_count": 78
+    "stargazers_count": 241,
+    "open_issues_count": 7,
+    "forks_count": 79
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 15,
     "forks_count": 131
   }
