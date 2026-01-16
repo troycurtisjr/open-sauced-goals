@@ -1,7 +1,7 @@
 [
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 209,
+    "stargazers_count": 210,
     "open_issues_count": 12,
     "forks_count": 108
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 636,
+    "stargazers_count": 639,
     "open_issues_count": 16,
     "forks_count": 69
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12106,
+    "stargazers_count": 12114,
     "open_issues_count": 55,
-    "forks_count": 960
+    "forks_count": 962
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "fedora-infra/noggin",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 29,
     "forks_count": 70
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3143,
+    "stargazers_count": 3149,
     "open_issues_count": 9,
     "forks_count": 128
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 900,
-    "open_issues_count": 24,
+    "stargazers_count": 903,
+    "open_issues_count": 23,
     "forks_count": 184
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 1387,
+    "stargazers_count": 1389,
     "open_issues_count": 69,
     "forks_count": 133
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 299,
+    "stargazers_count": 298,
     "open_issues_count": 5,
     "forks_count": 101
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2379,
+    "stargazers_count": 2383,
     "open_issues_count": 59,
-    "forks_count": 289
+    "forks_count": 293
   },
   {
     "full_name": "lutusp/PLSDR",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "bistromath/gr-air-modes",
-    "stargazers_count": 469,
+    "stargazers_count": 470,
     "open_issues_count": 15,
     "forks_count": 131
   }
