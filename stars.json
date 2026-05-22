@@ -1,9 +1,9 @@
 [
   {
     "full_name": "srwi/keypeek",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 8,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "yuburoll/yubuGadgets",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "braindefender/KLP-Lame-Keycaps",
-    "stargazers_count": 2074,
-    "open_issues_count": 8,
-    "forks_count": 161
+    "stargazers_count": 2081,
+    "open_issues_count": 9,
+    "forks_count": 162
   },
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 12,
     "forks_count": 110
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 860,
-    "open_issues_count": 27,
-    "forks_count": 85
+    "stargazers_count": 863,
+    "open_issues_count": 28,
+    "forks_count": 86
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12410,
+    "stargazers_count": 12414,
     "open_issues_count": 58,
-    "forks_count": 1002
+    "forks_count": 1004
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3290,
-    "open_issues_count": 15,
+    "stargazers_count": 3295,
+    "open_issues_count": 16,
     "forks_count": 133
   },
   {
@@ -123,7 +123,7 @@
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 937,
     "open_issues_count": 22,
-    "forks_count": 197
+    "forks_count": 198
   },
   {
     "full_name": "osh/gr-pyqt",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 2305,
+    "stargazers_count": 2327,
     "open_issues_count": 72,
     "forks_count": 243
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "gnuradio/gr-inspector",
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 5,
     "forks_count": 101
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "miek/inspectrum",
-    "stargazers_count": 2455,
+    "stargazers_count": 2457,
     "open_issues_count": 60,
     "forks_count": 300
   }
