@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "duckdb/duckdb",
+    "stargazers_count": 40982,
+    "open_issues_count": 845,
+    "forks_count": 3713
+  },
+  {
     "full_name": "alliecatowo/allie-cat-keeb-vial",
     "stargazers_count": 3,
     "open_issues_count": 21,
@@ -8,8 +14,8 @@
   {
     "full_name": "srwi/keypeek",
     "stargazers_count": 185,
-    "open_issues_count": 9,
-    "forks_count": 31
+    "open_issues_count": 10,
+    "forks_count": 32
   },
   {
     "full_name": "yuburoll/yubuGadgets",
@@ -21,7 +27,7 @@
     "full_name": "braindefender/KLP-Lame-Keycaps",
     "stargazers_count": 2242,
     "open_issues_count": 10,
-    "forks_count": 178
+    "forks_count": 180
   },
   {
     "full_name": "teaxyz/chai",
@@ -37,14 +43,14 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 283,
+    "stargazers_count": 284,
     "open_issues_count": 25,
     "forks_count": 47
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 1107,
-    "open_issues_count": 6,
+    "stargazers_count": 1115,
+    "open_issues_count": 8,
     "forks_count": 91
   },
   {
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12572,
+    "stargazers_count": 12573,
     "open_issues_count": 58,
-    "forks_count": 1045
+    "forks_count": 1046
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3399,
-    "open_issues_count": 14,
+    "stargazers_count": 3402,
+    "open_issues_count": 16,
     "forks_count": 151
   },
   {
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 2880,
+    "stargazers_count": 2881,
     "open_issues_count": 74,
     "forks_count": 307
   },
@@ -159,7 +165,7 @@
     "full_name": "madengr/ham2mon",
     "stargazers_count": 283,
     "open_issues_count": 9,
-    "forks_count": 70
+    "forks_count": 69
   },
   {
     "full_name": "gnuradio/gr-inspector",
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "dl1ksv/gr-display",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 17
   }
 ]
