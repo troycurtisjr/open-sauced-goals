@@ -7,9 +7,9 @@
   },
   {
     "full_name": "duckdb/duckdb",
-    "stargazers_count": 42148,
-    "open_issues_count": 1019,
-    "forks_count": 3914
+    "stargazers_count": 42191,
+    "open_issues_count": 964,
+    "forks_count": 3943
   },
   {
     "full_name": "alliecatowo/allie-cat-keeb-vial",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "braindefender/KLP-Lame-Keycaps",
-    "stargazers_count": 2304,
+    "stargazers_count": 2313,
     "open_issues_count": 11,
-    "forks_count": 188
+    "forks_count": 189
   },
   {
     "full_name": "teaxyz/chai",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 1173,
-    "open_issues_count": 15,
-    "forks_count": 99
+    "stargazers_count": 1177,
+    "open_issues_count": 17,
+    "forks_count": 100
   },
   {
     "full_name": "Erioldoesdesign/opendesign",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12584,
+    "stargazers_count": 12590,
     "open_issues_count": 58,
-    "forks_count": 1056
+    "forks_count": 1058
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3439,
-    "open_issues_count": 8,
+    "stargazers_count": 3445,
+    "open_issues_count": 14,
     "forks_count": 158
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 993,
+    "stargazers_count": 996,
     "open_issues_count": 28,
     "forks_count": 215
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 2919,
+    "stargazers_count": 2921,
     "open_issues_count": 74,
     "forks_count": 310
   },
@@ -177,6 +177,6 @@
     "full_name": "gnuradio/gr-inspector",
     "stargazers_count": 319,
     "open_issues_count": 7,
-    "forks_count": 104
+    "forks_count": 103
   }
 ]
