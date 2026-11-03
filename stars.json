@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "holykeebs/vial-qmk",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "holykeebs/qmk_firmware",
+    "stargazers_count": 30,
+    "open_issues_count": 0,
+    "forks_count": 55
+  },
+  {
     "full_name": "agentkitai/lore",
     "stargazers_count": 10,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 0
   },
   {
@@ -13,9 +25,9 @@
   },
   {
     "full_name": "duckdb/duckdb",
-    "stargazers_count": 42680,
-    "open_issues_count": 1120,
-    "forks_count": 4110
+    "stargazers_count": 42765,
+    "open_issues_count": 1159,
+    "forks_count": 4179
   },
   {
     "full_name": "alliecatowo/allie-cat-keeb-vial",
@@ -26,8 +38,8 @@
   {
     "full_name": "srwi/keypeek",
     "stargazers_count": 208,
-    "open_issues_count": 10,
-    "forks_count": 37
+    "open_issues_count": 11,
+    "forks_count": 38
   },
   {
     "full_name": "yuburoll/yubuGadgets",
@@ -37,13 +49,13 @@
   },
   {
     "full_name": "braindefender/KLP-Lame-Keycaps",
-    "stargazers_count": 2328,
+    "stargazers_count": 2330,
     "open_issues_count": 10,
     "forks_count": 191
   },
   {
     "full_name": "teaxyz/chai",
-    "stargazers_count": 207,
+    "stargazers_count": 206,
     "open_issues_count": 12,
     "forks_count": 108
   },
@@ -61,7 +73,7 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 1195,
+    "stargazers_count": 1203,
     "open_issues_count": 21,
     "forks_count": 103
   },
@@ -91,7 +103,7 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12593,
+    "stargazers_count": 12594,
     "open_issues_count": 58,
     "forks_count": 1061
   },
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3464,
+    "stargazers_count": 3469,
     "open_issues_count": 9,
-    "forks_count": 159
+    "forks_count": 158
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
@@ -166,17 +178,5 @@
     "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 10
-  },
-  {
-    "full_name": "BatchDrake/SigDigger",
-    "stargazers_count": 2933,
-    "open_issues_count": 75,
-    "forks_count": 311
-  },
-  {
-    "full_name": "madengr/ham2mon",
-    "stargazers_count": 285,
-    "open_issues_count": 9,
-    "forks_count": 69
   }
 ]
