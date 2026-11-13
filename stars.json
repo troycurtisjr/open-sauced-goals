@@ -9,7 +9,7 @@
     "full_name": "holykeebs/qmk_firmware",
     "stargazers_count": 30,
     "open_issues_count": 0,
-    "forks_count": 55
+    "forks_count": 57
   },
   {
     "full_name": "agentkitai/lore",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "intel/cpp-baremetal-senders-and-receivers",
-    "stargazers_count": 334,
-    "open_issues_count": 7,
+    "stargazers_count": 335,
+    "open_issues_count": 6,
     "forks_count": 21
   },
   {
     "full_name": "duckdb/duckdb",
-    "stargazers_count": 42954,
-    "open_issues_count": 1182,
-    "forks_count": 4184
+    "stargazers_count": 43056,
+    "open_issues_count": 1189,
+    "forks_count": 4198
   },
   {
     "full_name": "alliecatowo/allie-cat-keeb-vial",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "srwi/keypeek",
-    "stargazers_count": 210,
-    "open_issues_count": 15,
+    "stargazers_count": 211,
+    "open_issues_count": 11,
     "forks_count": 41
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "braindefender/KLP-Lame-Keycaps",
-    "stargazers_count": 2341,
+    "stargazers_count": 2343,
     "open_issues_count": 10,
-    "forks_count": 191
+    "forks_count": 190
   },
   {
     "full_name": "teaxyz/chai",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "ray-project/deltacat",
-    "stargazers_count": 285,
+    "stargazers_count": 286,
     "open_issues_count": 25,
     "forks_count": 47
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 1217,
+    "stargazers_count": 1227,
     "open_issues_count": 21,
     "forks_count": 103
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12603,
+    "stargazers_count": 12607,
     "open_issues_count": 58,
-    "forks_count": 1063
+    "forks_count": 1065
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -122,7 +122,7 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 147,
-    "open_issues_count": 29,
+    "open_issues_count": 27,
     "forks_count": 75
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3473,
-    "open_issues_count": 7,
+    "stargazers_count": 3479,
+    "open_issues_count": 13,
     "forks_count": 160
   },
   {
@@ -159,7 +159,7 @@
     "full_name": "daniestevez/gr-satellites",
     "stargazers_count": 1001,
     "open_issues_count": 27,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "osh/gr-pyqt",
