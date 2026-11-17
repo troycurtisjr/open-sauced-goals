@@ -20,14 +20,14 @@
   {
     "full_name": "intel/cpp-baremetal-senders-and-receivers",
     "stargazers_count": 335,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 21
   },
   {
     "full_name": "duckdb/duckdb",
-    "stargazers_count": 43056,
-    "open_issues_count": 1189,
-    "forks_count": 4198
+    "stargazers_count": 43120,
+    "open_issues_count": 1245,
+    "forks_count": 4213
   },
   {
     "full_name": "alliecatowo/allie-cat-keeb-vial",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "srwi/keypeek",
-    "stargazers_count": 211,
-    "open_issues_count": 11,
+    "stargazers_count": 213,
+    "open_issues_count": 14,
     "forks_count": 41
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "braindefender/KLP-Lame-Keycaps",
-    "stargazers_count": 2343,
+    "stargazers_count": 2349,
     "open_issues_count": 10,
     "forks_count": 190
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "bitol-io/open-data-contract-standard",
-    "stargazers_count": 1227,
-    "open_issues_count": 21,
+    "stargazers_count": 1233,
+    "open_issues_count": 14,
     "forks_count": 103
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 12607,
+    "stargazers_count": 12612,
     "open_issues_count": 58,
-    "forks_count": 1065
+    "forks_count": 1066
   },
   {
     "full_name": "pelican-plugins/avatar",
@@ -117,13 +117,13 @@
     "full_name": "fedora-infra/aaa-tracker",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 147,
     "open_issues_count": 27,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "NastuzziSamy/ulauncher-google-search",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 3479,
-    "open_issues_count": 13,
+    "stargazers_count": 3482,
+    "open_issues_count": 8,
     "forks_count": 160
   },
   {
     "full_name": "randaller/cnn-rtlsdr",
-    "stargazers_count": 339,
+    "stargazers_count": 340,
     "open_issues_count": 27,
     "forks_count": 83
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "daniestevez/gr-satellites",
-    "stargazers_count": 1001,
+    "stargazers_count": 1002,
     "open_issues_count": 27,
     "forks_count": 217
   },
